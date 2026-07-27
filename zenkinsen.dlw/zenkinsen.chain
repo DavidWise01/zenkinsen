@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1292
 slug  : zenkinsen
-seal  : 101bf27cdb0c245383e846195ebfd4add695172c745e90e54a7d1c55a00a3503
-prev  : 95c244c4e214dd592b3ad4031f983f9cc34ac102d00ac78ca1d89dcf4d4a400d
-link  : eff4338d5feb1c1a3d8b51b42f6042e41cc2c47f908ed6e326673243b18a5461
-head  : eff4338d5feb1c1a3d8b51b42f6042e41cc2c47f908ed6e326673243b18a5461
+seal  : 2d093640c58694f03f58820e7a80f527259d9ce916d0a58b09e76adadc19dd70
+prev  : e8f273fbd13b9a22d9b0076bcf16ff563ec8b74c455a731b2dbb96fdbf9067af
+link  : 041c6161726704bb61121384ed2d1ff28030528a0c90cd4ccc387fc45dfa9711
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
